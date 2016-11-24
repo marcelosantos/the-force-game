@@ -1,6 +1,6 @@
 # Jogo da Forca using Leiningen
 
-This is an simple projeto case studie about functional language programming
+This is an simple project case studie about functional programming language
 
 ## Installation
 
