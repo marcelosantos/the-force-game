@@ -6,9 +6,15 @@ This is an simple projeto case studie about functional language programming
 
 Download from https://github.com/marcelosantos/jogo-da-forca.git.
 
+## Requirements
+
+Configure Leiningen
+
+http://leiningen.org/
+
 ## Usage
 
-With Leiningen in app directory run
+In the app directory run
 
     $ lein repl
 
