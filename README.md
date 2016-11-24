@@ -1,36 +1,20 @@
-# forca
+# Jogo da Forca using Leiningen
 
-FIXME: description
+This is an simple projeto case studie about functional language programming
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/marcelosantos/jogo-da-forca.git.
 
 ## Usage
 
-FIXME: explanation
+With Leiningen in app directory run
 
-    $ java -jar forca-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+    $ lein repl
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Marcelo Santos
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
