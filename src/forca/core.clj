@@ -1,3 +1,4 @@
+"This is an simples force game play"
 (ns forca.core
     (:gen-class))
 
