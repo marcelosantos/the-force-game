@@ -14,9 +14,13 @@ http://leiningen.org/
 
 ## Usage
 
-In the app directory run
+In the app directory run the below command for run program
 
-    $ lein repl
+    $ lein run
+
+Or run with REPL tool
+
+	$ lein repl
 
 ## License
 
