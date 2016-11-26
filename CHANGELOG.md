@@ -1,5 +1,13 @@
 # Change Log
-All notable changes to this project will be documented in this file. This change log follows the conventions of [keepachangelog.com](http://keepachangelog.com/).
+All notable changes to this project will be documented in this file. This change log follows the conventions of [github.com](https://github.com/marcelosantos/the-force-game).
+
+## [1.0.3] - 2016-11-26
+### Changed
+- New improvement on the organization files.
+
+## [1.0.2] - 2016-11-26
+### Changed
+- New improvement on README file.
 
 ## [1.0.1] - 2016-11-26
 ### Changed

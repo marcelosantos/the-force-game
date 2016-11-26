@@ -1,6 +1,6 @@
 "This is an simples force game play"
 "Author: Marcelo Santos"
-(ns forca.core
+(ns theforcegame.core
     (:gen-class))
 
 (def total-of-lifes 6)
