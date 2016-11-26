@@ -2,7 +2,7 @@
   (:gen-class))
 
 (def total-de-vidas 6)
-(def palavra-secreta "MELANCIA")
+(def palavra-secreta "CLOJURE")
 
 (defn perdeu [] (print "Você perdeu!!! "))
 (defn ganhou [] (print "Você ganhou!!! "))
