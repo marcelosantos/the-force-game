@@ -1,5 +1,5 @@
 (ns forca.core
-  (:gen-class))
+    (:gen-class))
 
 (def total-de-vidas 6)
 (def palavra-secreta "CLOJURE")
