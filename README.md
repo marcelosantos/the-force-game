@@ -1,4 +1,4 @@
-# Jogo da Forca using Leiningen
+# The Force Game using Leiningen
 
 This is an simple project case studie about functional programming language
 

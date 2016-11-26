@@ -1,6 +1,6 @@
-(ns forca.core-test
+(ns theforcegame.core-test
   (:require [clojure.test :refer :all]
-            [forca.core :refer :all]))
+            [theforcegame.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
