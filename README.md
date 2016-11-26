@@ -4,7 +4,7 @@ This is an simple project case studie about functional programming language
 
 ## Installation
 
-Download from https://github.com/marcelosantos/jogo-da-forca.git.
+Download from https://github.com/marcelosantos/the-force-game.git.
 
 ## Requirements
 
