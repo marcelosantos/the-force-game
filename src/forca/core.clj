@@ -1,4 +1,5 @@
 "This is an simples force game play"
+"Author: Marcelo Santos"
 (ns forca.core
     (:gen-class))
 
